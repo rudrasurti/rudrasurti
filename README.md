@@ -12,40 +12,33 @@
 
 
 
-### Glad to see you here!  
-Experienced Automation Engineer | Driving Efficiency and Optimization through Innovative Solutions
+### Glad to see you here!
+**Senior SDET | Robot Framework · API & AI-Powered Test Automation (Claude) | Open to Remote Roles**
 
-Passionate about proving a track record in optimizing processes and enhancing efficiency through innovative solutions. 
+I build test automation frameworks that catch bugs before production. 4+ years automating web, mobile, desktop and APIs. Currently at Silent Eight (AI-driven financial crime compliance), owning end-to-end QA for 2 live projects.
 
-Skilled in designing and implementing automated systems that effectively reduce costs, improve productivity, and elevate product quality. Continuously seeking new challenges and opportunities to leverage my expertise in cutting-edge technologies such as robotics, Selenium, Appuim, Rest Assured, and more.
+**Tech I work with**
 
-Key Skills:
+- **Languages:** Java, Python, JavaScript
+- **UI Automation:** Robot Framework, Selenium, Playwright, Appium, WinAppDriver
+- **API Automation:** Robot Framework RequestsLibrary, Rest Assured, Postman
+- **AI in Testing:** Claude for AI-assisted test design and API suite automation
+- **Performance:** JMeter
+- **Test Frameworks:** TestNG, JUnit
+- **CI/CD & Build:** Jenkins, Maven, Gradle, Docker, Git
+- **Database:** MySQL, SQL
+- **Process:** Agile / Scrum, Jira
 
-✓ Languages: Java, JavaScript
-✓ IDEs: Eclipse, VS Code
-✓ UI Automation: Selenium, Appium, Playwright
-✓ API Automation: Rest Assured
-✓ Database: MySQL
-✓ Build / Dependency Management Tools: Maven, Gradle, Jenkins
-✓ VCS: Git
+**Highlights**
 
-Self-learned skills honed through hands-on experience and dedication.
+- Built Page Object Model frameworks for web (Selenium, Playwright), mobile (Appium), desktop (WinAppDriver) and API (Rest Assured). See the pinned repos below
+- Automated a complete REST API test suite with Robot Framework and Claude
+- Delivered automation projects in the E-commerce and E-learning domains
+- Functional, regression, cross-browser, API and performance testing in Agile teams
 
-Projects:
+📝 I write practical QA guides on [Medium](https://medium.com/@rudrasurti98). Latest: [How I Automate API Testing with Robot Framework and Claude AI](https://medium.com/@rudrasurti98/how-i-automate-api-testing-with-robot-framework-and-claude-ai-e1a0d637836c)
 
-Successfully completed automation projects in the 'E-commerce' and 'E-learning' domains, delivering tangible results.
-
-Proficient in Java programming and automating web and mobile applications using Selenium/Appuim Driver with TestNG and JUnit frameworks.
-
-Expertise in utilizing tools such as 'Postman' and defect reporting/tracking tools like 'JIRA' and 'Bugzilla.'
-
-Extensive experience in various testing methodologies, including Functional Testing (Smoke, UI, Functional, 
-Regression, and Cross Browsers Testing).
-
-Well-versed in Agile Test Methodologies, Scrum, and Test-Driven Development.
-
-Let’s connect if you're in need of an SDEL and explore how we can transform industries together. I'm open to exciting opportunities and collaborations.  
-  
+💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/rudra-surti/) if you're hiring an SDET or need test automation help. I'm open to remote roles and freelance collaborations.
 
 <br/>  
 
@@ -56,7 +49,7 @@ Let’s connect if you're in need of an SDEL and explore how we can transform in
 - 🔭 I’m currently working on [Page Object Model Framework Selenium Java](https://github.com/rudrasurti/Selenium-Java-POM-Framework)  
   
 
-- 🌱 I’m currently learning Java and Devops  
+- 🌱 I’m currently exploring AI-powered testing with Claude and Robot Framework  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
