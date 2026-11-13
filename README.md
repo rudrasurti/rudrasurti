@@ -32,9 +32,12 @@ I test software end to end: **web, mobile, desktop, API, performance and databas
 
 `Robot Framework` `Selenium` `Playwright` `Appium` `WinAppDriver` `RestAssured` `Postman` `JMeter` `pytest` `TestNG` `Java` `Python` `TypeScript` `SQL` `Docker` `GitHub Actions` `Jenkins` `WireMock` `Claude`
 
-## ✍️ Popular articles
+## ✍️ Latest articles
 
-- [Mastering Dynamic XPath with Playwright and Selenium](https://medium.com/@rudrasurti98)
+- [Fail the Build on Slow APIs: JMeter Performance Tests in CI](https://medium.com/@rudrasurti98/fail-the-build-on-slow-apis-jmeter-performance-tests-in-ci-ddd8cc909e88)
+- [Stop Flaky Tests Hiding in Your CI](https://medium.com/@rudrasurti98/stop-flaky-tests-hiding-in-your-ci-062d28e3a167)
+- [Using Claude to Write Test Cases: What AI Does Well and What You Must Review](https://medium.com/@rudrasurti98/using-claude-to-write-test-cases-what-ai-does-well-and-what-you-must-review-5b7bf7476cfc)
+- [Running Robot Framework Tests in Parallel with Pabot](https://medium.com/@rudrasurti98/running-robot-framework-tests-in-parallel-with-pabot-4d9f341a432d)
 - [How I Automate API Testing with Robot Framework and Claude AI](https://medium.com/@rudrasurti98/how-i-automate-api-testing-with-robot-framework-and-claude-ai-e1a0d637836c)
 - [All articles on Medium](https://medium.com/@rudrasurti98)
 
