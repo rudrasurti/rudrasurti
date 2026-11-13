@@ -4,7 +4,7 @@
 
 I test software end to end: **web, mobile, desktop, API, performance and database**, and I wire it all into CI/CD so every change is checked automatically. Lately I use **Claude** to speed up test design, and I review everything it writes.
 
-4+ years in test automation. Currently SDET at **Silent Eight** (AI-driven financial crime compliance), owning end-to-end QA. Open to remote roles.
+5+ years in QA and test automation. Currently SDET at **Silent Eight** (AI-driven financial crime compliance), owning end-to-end QA. Open to remote roles.
 
 [![Website](https://img.shields.io/badge/Website-rudrasurti.github.io-0d1117?style=flat&logo=githubpages)](https://rudrasurti.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rudra--surti-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rudra-surti/)
