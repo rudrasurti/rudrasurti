@@ -34,6 +34,7 @@ I test software end to end: **web, mobile, desktop, API, performance and databas
 
 ## ✍️ Latest articles
 
+- [UI and API Tests in One Playwright TypeScript Suite](https://medium.com/@rudrasurti98/ui-and-api-tests-in-one-playwright-typescript-suite-7dda23726c68)
 - [Fail the Build on Slow APIs: JMeter Performance Tests in CI](https://medium.com/@rudrasurti98/fail-the-build-on-slow-apis-jmeter-performance-tests-in-ci-ddd8cc909e88)
 - [Stop Flaky Tests Hiding in Your CI](https://medium.com/@rudrasurti98/stop-flaky-tests-hiding-in-your-ci-062d28e3a167)
 - [Using Claude to Write Test Cases: What AI Does Well and What You Must Review](https://medium.com/@rudrasurti98/using-claude-to-write-test-cases-what-ai-does-well-and-what-you-must-review-5b7bf7476cfc)
