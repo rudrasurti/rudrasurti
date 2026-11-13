@@ -1,116 +1,43 @@
-## Hey 👋, I'm Rudra Surti!  
-  
+# Hi, I'm Rudra Surti 👋
 
+**Senior SDET · Full-Stack Tester** · Vadodara, India
 
-<a href="https://github.com/rudrasurti" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rudra-surti" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+I test software end to end: **web, mobile, desktop, API, performance and database**, and I wire it all into CI/CD so every change is checked automatically. Lately I use **Claude** to speed up test design, and I review everything it writes.
 
+4+ years in test automation. Currently SDET at **Silent Eight** (AI-driven financial crime compliance), owning end-to-end QA. Open to remote roles.
 
+[![Website](https://img.shields.io/badge/Website-rudrasurti.github.io-0d1117?style=flat&logo=githubpages)](https://rudrasurti.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rudra--surti-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rudra-surti/)
+[![Medium](https://img.shields.io/badge/Medium-@rudrasurti98-000000?style=flat&logo=medium)](https://medium.com/@rudrasurti98)
 
-### Glad to see you here!
-**Senior SDET | Robot Framework · API & AI-Powered Test Automation (Claude) | Open to Remote Roles**
+## 🧪 What I build
 
-I build test automation frameworks that catch bugs before production. 4+ years automating web, mobile, desktop and APIs. Currently at Silent Eight (AI-driven financial crime compliance), owning end-to-end QA for 2 live projects.
+| Layer | Project | Stack | Live |
+|---|---|---|---|
+| API | [Robot-Framework-API-Automation](https://github.com/rudrasurti/Robot-Framework-API-Automation) | Robot Framework, RequestsLibrary, JSON Schema, Pabot | [Test report](https://rudrasurti.github.io/Robot-Framework-API-Automation/) |
+| UI + API | [Playwright-TypeScript-UI-API-Framework](https://github.com/rudrasurti/Playwright-TypeScript-UI-API-Framework) | Playwright, TypeScript, Page Objects, 3 browsers | [Report](https://rudrasurti.github.io/Playwright-TypeScript-UI-API-Framework/) |
+| Performance | [JMeter-Performance-Testing-Pipeline](https://github.com/rudrasurti/JMeter-Performance-Testing-Pipeline) | JMeter, p95 / error-rate gate, Jenkinsfile | [Dashboard](https://rudrasurti.github.io/JMeter-Performance-Testing-Pipeline/) |
+| Database | [database-testing-framework](https://github.com/rudrasurti/database-testing-framework) | pytest, PostgreSQL 15-17, ETL checks | |
+| Web | [Selenium-Java-POM-Framework](https://github.com/rudrasurti/Selenium-Java-POM-Framework) | Selenium, Java, TestNG, Page Objects | |
+| Mobile | [Appium-Java-POM-Framework](https://github.com/rudrasurti/Appium-Java-POM-Framework) | Appium, Java, Android & iOS | |
+| Desktop | [WinAppDriver-Desktop-Java-POM-Framework](https://github.com/rudrasurti/WinAppDriver-Desktop-Java-POM-Framework) | WinAppDriver, Java | |
 
-**Tech I work with**
+## ⚙️ Tools for test teams
 
-- **Languages:** Java, Python, JavaScript
-- **UI Automation:** Robot Framework, Selenium, Playwright, Appium, WinAppDriver
-- **API Automation:** Robot Framework RequestsLibrary, Rest Assured, Postman
-- **AI in Testing:** Claude for AI-assisted test design and API suite automation
-- **Performance:** JMeter
-- **Test Frameworks:** TestNG, JUnit
-- **CI/CD & Build:** Jenkins, Maven, Gradle, Docker, Git
-- **Database:** MySQL, SQL
-- **Process:** Agile / Scrum, Jira
+- **[qa-report-bot](https://github.com/rudrasurti/qa-report-bot)**: a GitHub Action that turns JUnit XML from any tool into a pull-request summary, with flaky-test detection
+- **[qa-devops-toolkit](https://github.com/rudrasurti/qa-devops-toolkit)**: WireMock mocks, Docker Compose test environment and a reusable GitHub Actions workflow
+- **[ai-test-case-generator](https://github.com/rudrasurti/ai-test-case-generator)**: Claude-powered test design that exports Markdown, CSV, Robot Framework and Gherkin
 
-**Highlights**
+## 🛠️ Toolbox
 
-- Built Page Object Model frameworks for web (Selenium, Playwright), mobile (Appium), desktop (WinAppDriver) and API (Rest Assured). See the pinned repos below
-- Automated a complete REST API test suite with Robot Framework and Claude
-- Delivered automation projects in the E-commerce and E-learning domains
-- Functional, regression, cross-browser, API and performance testing in Agile teams
+`Robot Framework` `Selenium` `Playwright` `Appium` `WinAppDriver` `RestAssured` `Postman` `JMeter` `pytest` `TestNG` `Java` `Python` `TypeScript` `SQL` `Docker` `GitHub Actions` `Jenkins` `WireMock` `Claude`
 
-📝 I write practical QA guides on [Medium](https://medium.com/@rudrasurti98). Latest: [How I Automate API Testing with Robot Framework and Claude AI](https://medium.com/@rudrasurti98/how-i-automate-api-testing-with-robot-framework-and-claude-ai-e1a0d637836c)
+## ✍️ Popular articles
 
-💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/rudra-surti/) if you're hiring an SDET or need test automation help. I'm open to remote roles and freelance collaborations.
+- [Mastering Dynamic XPath with Playwright and Selenium](https://medium.com/@rudrasurti98)
+- [How I Automate API Testing with Robot Framework and Claude AI](https://medium.com/@rudrasurti98/how-i-automate-api-testing-with-robot-framework-and-claude-ai-e1a0d637836c)
+- [All articles on Medium](https://medium.com/@rudrasurti98)
 
-<br/>  
+---
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Page Object Model Framework Selenium Java](https://github.com/rudrasurti/Selenium-Java-POM-Framework)  
-  
-
-- 🌱 I’m currently exploring AI-powered testing with Claude and Robot Framework  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rudrasurti&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrasurti&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rudrasurti&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+💬 Happy to talk about test automation, flaky tests, CI/CD for QA or AI in testing. Find me on [LinkedIn](https://www.linkedin.com/in/rudra-surti/).
