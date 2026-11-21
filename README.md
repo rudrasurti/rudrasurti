@@ -34,6 +34,7 @@ I test software end to end: **web, mobile, desktop, API, performance and databas
 
 ## ✍️ Latest articles
 
+- [Mock Your API with WireMock and Docker Compose So Tests Never Wait on a Server](https://medium.com/@rudrasurti98/mock-your-api-with-wiremock-and-docker-compose-so-tests-never-wait-on-a-server-2f090fdf120c)
 - [Selenium Java: One Browser per Thread for Parallel Tests](https://medium.com/@rudrasurti98/selenium-java-one-browser-per-thread-for-parallel-tests-c7b5d71f8680)
 - [UI and API Tests in One Playwright TypeScript Suite](https://medium.com/@rudrasurti98/ui-and-api-tests-in-one-playwright-typescript-suite-7dda23726c68)
 - [Fail the Build on Slow APIs: JMeter Performance Tests in CI](https://medium.com/@rudrasurti98/fail-the-build-on-slow-apis-jmeter-performance-tests-in-ci-ddd8cc909e88)
